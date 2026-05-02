@@ -1,0 +1,13 @@
+{
+  "type": "agent-registration-v1",
+  "metadata": {
+    "name": "dediirawan1104",
+    "description": "dediirawan1104 AI Agent on Billions Network",
+    "image": "https://avatars.githubusercontent.com/u/dediirawan1104"
+  },
+  "trust": {
+    "supportedTrust": ["reputation"]
+  },
+  "services": [],
+  "registrations": []
+}
